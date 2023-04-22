@@ -1,0 +1,28 @@
+html {
+    color: rgb(227, 12, 12)
+}
+h2 {
+    color: black;
+}
+p {
+    color: black;
+}
+ul {
+    color: black;
+}
+.pic {
+    width: 450px;
+    height: 300px;
+}
+a {
+    color: blue;
+    cursor: pointer;
+}
+a:hover {
+    color:aqua;
+}
+
+#subHeader {
+    font-size: 20px;
+    text-decoration: underline
+}
